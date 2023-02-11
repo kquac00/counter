@@ -1,0 +1,28 @@
+.title {    
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.click_button {
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.clear_button {
+    background-color: red;
+    color: gainsboro;
+    font-size: 20px;
+}
+.main_display {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    
+
+}
+.display_counter {
+    display: flex;
+    justify-content: center;
+}
